@@ -17,7 +17,6 @@ app.controller("ctrl", function($scope){
 		}
 		else{
 			$scope.msg1="";
-		}
-			
+		}		
 	}
 })
